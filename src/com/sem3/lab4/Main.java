@@ -5,9 +5,6 @@ import java.io.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- * Created by Валерий on 08.09.2016.
- */
 public class Main {
     public static void main(String[] args) {
         String str;
